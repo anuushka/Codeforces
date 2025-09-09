@@ -1,3 +1,6 @@
+//The number of vertices (V) equals the number of edges (E) in a connected component.
+//Every vertex has a degree of exactly two.
+
 #include <iostream>
 #include <vector>
  
